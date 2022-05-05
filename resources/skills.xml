@@ -1,0 +1,18 @@
+<skills>
+    <hero>
+        <Orderus>
+            <attack>
+                <RapidStrike>
+                    <chance>10</chance>
+                    <redo>1</redo>
+                </RapidStrike>
+            </attack>
+            <defence>
+                <MagicShield>
+                    <chance>20</chance>
+                    <reduceDamage>0.5</reduceDamage>
+                </MagicShield>
+            </defence>
+        </Orderus>
+    </hero>
+</skills>
